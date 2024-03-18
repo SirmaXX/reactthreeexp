@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## MODEL
+
+Link of glasses
+https://sketchfab.com/3d-models/glasses-3d-model-74c1d202ac0249e39823e379e2b065e9
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
